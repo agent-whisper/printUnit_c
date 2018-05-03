@@ -1,0 +1,1 @@
+C program to print units of an integer in each new line
